@@ -40,13 +40,13 @@ Experimental works created in collaboration with Anna Ozawa, Coco Frizzell, Tom 
 <br><br>
 <br><br>
 <br><br>
-<img src="https://i.imgur.com/getVv84l.jpg">
+<img src="https://i.imgur.com/getVv84.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://i.imgur.com/xfsfiR9l.jpg">
+<img src="https://i.imgur.com/xfsfiR9.jpg">
 <br><br>
 <br><br>
 <br><br>
