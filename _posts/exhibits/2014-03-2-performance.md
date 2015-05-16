@@ -24,13 +24,16 @@ Works created in collaboration with Anna Ozawa, Coco Frizzell, John Hodgson and 
 <br><br>
 <br><br>
 <br><br>
-<iframe src="https://player.vimeo.com/video/90084341" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://player.vimeo.com/video/90084341"  width="500" height="281" frameborder="0"> 
+</iframe> 
+<p>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<iframe src="https://player.vimeo.com/video/89275866" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://player.vimeo.com/video/89275866"  width="500" height="281" frameborder="0"> 
+</iframe> 
 <br><br>
 <br><br>
 <br><br>
