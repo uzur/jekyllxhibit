@@ -24,15 +24,17 @@ Works created in collaboration with Anna Ozawa, Coco Frizzell, John Hodgson and 
 <br><br>
 <br><br>
 <br><br>
-<iframe src="http://player.vimeo.com/video/90084341"  width="500" height="281" frameborder="0"> 
-</iframe> 
+
+<iframe src="https://player.vimeo.com/video/90084341" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/90084341">Watering the Plants</a> from <a href="https://vimeo.com/tomhackshaw">Tom Hackshaw</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
+
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<iframe src="http://player.vimeo.com/video/89275866"  width="500" height="281" frameborder="0"> 
-</iframe> 
+
+<iframe src="https://player.vimeo.com/video/89275866" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/89275866">&quot;Hi Lusi&quot;</a> from <a href="https://vimeo.com/tomhackshaw">Tom Hackshaw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 <br><br>
 <br><br>
 <br><br>
