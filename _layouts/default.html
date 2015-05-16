@@ -4,12 +4,13 @@
 <html lang='en-us'>
 <head>
 	<meta charset='utf-8'>
+	<title>Index : Tom Hackshaw</title>
 		{% if page.title == 'index' %}
 			{% assign counter = 0 %}
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
 					{% assign counter = 1 %}
-					<title>Hackshaw</title>
+					<title>Tom Hackshaw</title>
 					<meta name='description' content="{{exhibit.content | truncate: 50 }}" />
 				{% endif %}
 			{%  endfor %}
