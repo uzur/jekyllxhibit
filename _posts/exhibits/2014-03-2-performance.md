@@ -143,3 +143,47 @@ Experimental works created in collaboration with Anna Ozawa, Coco Frizzell, Tom 
 <br><br>
 <br><br>
 <img src="https://i.imgur.com/dfLCbpnl.png">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+Stills from a collaboration titled _"Onion Schmunion"_ with Bianca Rocca, where each of us attempted to consume a tube of wasabi.
+<br>
+<br>
+<img src="https://i.imgur.com/mpyqPcVl.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://i.imgur.com/ATnwYGgl.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://i.imgur.com/4OunLKGl.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://i.imgur.com/ja3a9yql.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://i.imgur.com/iBx8ckGl.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://i.imgur.com/Sraibf6l.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
