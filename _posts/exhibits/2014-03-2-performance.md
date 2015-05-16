@@ -9,7 +9,7 @@ category: exhibit
  
 ## 2014 Performance + Timebased Module
 
-Works created in collaboration with Anna Ozawa, Coco Frizzell, John Hodgson and Tom Hackshaw over the course of four weeks.
+Experimental works created in collaboration with Anna Ozawa, Coco Frizzell, Tom Hackshaw and another member, who asked to remain anonymous, over the course of four weeks.
 <br>
 <br>
 <img src="https://i.imgur.com/pI4m6K8l.png">
