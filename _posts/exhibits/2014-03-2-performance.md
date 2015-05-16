@@ -26,7 +26,6 @@ Works created in collaboration with Anna Ozawa, Coco Frizzell, John Hodgson and 
 <br><br>
 <iframe src="http://player.vimeo.com/video/90084341"  width="500" height="281" frameborder="0"> 
 </iframe> 
-<p>
 <br><br>
 <br><br>
 <br><br>
