@@ -4,11 +4,12 @@ layout: default
 ---
 
 
-
-_Tom Hackshaw is a Japanese - New Zealand interdisciplinary artist currently living in Auckland, New Zealand, and is a student at the Elam School of Fine Arts. He is one of the founding members of the <a href="http://io-wa.me">I.O.W.A. Collective</a> (It's Okay We're Artists!), and also is a part of the <a href="http://autistici.org">Autistici/Inventati Collective.</a>_
-<br>
-_Prior to Elam, Tom took classes at Artstation, Ponsonby for three years._
 <br><br>
+Tom Hackshaw is a Japanese - New Zealand interdisciplinary artist currently living in Auckland, New Zealand, and is a student at the Elam School of Fine Arts. He is one of the founding members of the <a href="http://io-wa.me">I.O.W.A. Collective</a> (It's Okay We're Artists!), and also is a part of the <a href="http://autistici.org">Autistici/Inventati Collective.</a>
+<br>
+Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
+<br><br>
+--
 <br><br>
 斗夢・ハクショウは父NZ人、母日本人の両親を持ち幼少の頃から東洋と西洋の
 カルチャーに憧憬が深い。 現在はニュージーランド、オークランド在住の 
