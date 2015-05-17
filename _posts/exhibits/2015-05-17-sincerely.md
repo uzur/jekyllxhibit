@@ -31,4 +31,4 @@ category: exhibit
 <br><br>
 <br><br>
 <br><br>
-<img src="https://i.imgur.com/mywVyXj.jpg">
+<img src="https://i.imgur.com/mywVyXjl.jpg">
