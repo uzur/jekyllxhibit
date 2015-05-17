@@ -3,7 +3,7 @@ published: true
 layout: default
 
 title: Sincerely, Tom Hackshaw
-section: 2014
+section: Share + Share Alike
 category: exhibit
 ---
 
