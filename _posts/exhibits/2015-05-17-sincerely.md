@@ -13,7 +13,7 @@ category: exhibit
 <br><br>
 <br><br>
 <br><br>
-<img src="https://40.media.tumblr.com/d5183a9fd966abd32c3213a0febdbc1a/tumblr_nmxohrqA051swhseoo3_1280.jpg">
+<img src="https://i.imgur.com/egCffJ5l.jpg">
 <br><br>
 <br><br>
 <br><br>
@@ -25,7 +25,7 @@ category: exhibit
 <br><br>
 <br><br>
 <br><br>
-<img src="https://40.media.tumblr.com/32bacd9570b6993d9623dd20076483a5/tumblr_nmxohrqA051swhseoo2_1280.jpg">
+<img src="https://i.imgur.com/PgKSD0pl.jpg">
 <br><br>
 <br><br>
 <br><br>
