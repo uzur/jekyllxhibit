@@ -19,15 +19,16 @@ category: exhibit
 <br><br>
 <br><br>
 <br><br>
-<img src="https://40.media.tumblr.com/607e6922a6152733d62b028bd891185b/tumblr_nmxo49ouIE1swhseoo2_500.jpg">
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <img src="https://i.imgur.com/PgKSD0pl.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
+<img src="https://i.imgur.com/mv2Nj3xl.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://i.imgur.com/mywVyXj.jpg">
