@@ -25,7 +25,7 @@ Experimental works created in collaboration with Anna Ozawa, Coco Frizzell, Tom 
 <br><br>
 <br><br>
 
-<iframe src="https://player.vimeo.com/video/90084341" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/90084341?color=ffffff&portrait=0" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <br><br>
 <br><br>
@@ -33,7 +33,7 @@ Experimental works created in collaboration with Anna Ozawa, Coco Frizzell, Tom 
 <br><br>
 <br><br>
 
-<iframe src="https://player.vimeo.com/video/89275866" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/89275866?color=ffffff&portrait=0" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <br><br>
 <br><br>
