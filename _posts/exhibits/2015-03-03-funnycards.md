@@ -13,7 +13,7 @@ category: exhibit
 <br><br>
 <br><br>
 <br><br>
-<img src="https://i.imgur.com/GuxF91pl.jpg">
+<img src="https://i.imgur.com/1zumYNGl.jpg">
 <br><br>
 <br><br>
 <br><br>
