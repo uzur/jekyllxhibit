@@ -9,8 +9,12 @@ category: exhibit
 
 ## Experimentations with readymade materials
 
-View all the works at the project page <a href="http://p2.tomhackshaw.com">Project 2 Site</a>
+_View all the works at the project page <a href="http://p2.tomhackshaw.com">Project 2 Site</a>_
 <br><br>
+Over the course of six weeks I collaborated with Joseph Durana, Louis Betaña and Carmela Nepomuceno in a sculpture project primarily dealing with the issues of materiality vs. materialism.
+<br><br>
+Below are the photographs showing all of our experimentations + arrangements.
+
 
 <img src="https://i.imgur.com/WnvVq9Dl.jpg">
 <br><br>
