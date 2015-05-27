@@ -19,4 +19,4 @@ category: exhibit
 
 <br>
 
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/bv8RNBLwnko?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/bv8RNBLwnko?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>   <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/mwaNpDNrvho?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>   <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/L0gKDWSjSJ4?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
