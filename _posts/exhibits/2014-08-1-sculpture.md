@@ -9,7 +9,7 @@ category: exhibit
 
 ## Sculpture module (the founding of I.O.W.A.) ##
 
-<iframe src="https://player.vimeo.com/video/109419220?color=ffffff&portrait=0" width="500" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/109419220?color=ffffff&portrait=0" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br>
 
