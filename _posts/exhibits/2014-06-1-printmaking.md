@@ -7,4 +7,4 @@ section: 2014
 category: exhibit
 ---
 
-## Printmaking module
+_An exploration into markmaking_
