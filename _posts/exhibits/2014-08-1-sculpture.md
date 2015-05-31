@@ -9,9 +9,11 @@ category: exhibit
 
 ## Sculpture module (the founding of I.O.W.A.) ##
 
-<center>
+
 <a href="http://io-wa.me">It's Okay We're Artists!</a>
-</center>
+<br><br>
+<br><br>
+<br><br>
 
 <iframe src="https://player.vimeo.com/video/109419220?color=ffffff&portrait=0" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
