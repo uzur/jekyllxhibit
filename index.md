@@ -1,7 +1,7 @@
 ---
-title: index
-published: true
+title: null
 layout: default
+published: true
 ---
 
 <center>
