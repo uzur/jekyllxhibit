@@ -2,17 +2,15 @@
 published: true
 layout: default
 
-title: Sculpture
+title: Sculpture (the founding of I.O.W.A.)
 section: 2014
 category: exhibit
 ---
 
-## Sculpture module (the founding of I.O.W.A.) ##
 
 
+<br><br>
 <a href="http://io-wa.me">It's Okay We're Artists!</a>
-<br><br>
-<br><br>
 <br><br>
 
 <iframe src="https://player.vimeo.com/video/109419220?color=ffffff&portrait=0" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
