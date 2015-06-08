@@ -9,7 +9,7 @@ category: exhibit
 
 Created in collaboration with Joseph Durana and Louis Betana.
 <br><br>
-Thank you to p. mule, Kaoru Kodama, John Hodgson, Carmela Nepomuceno, Rachel Ashby and anyone else I missed out.
+Thank you to p. mule, Kaoru Kodama, Taipari Connelly, Albert Ashton, John Hodgson, Carmela Nepomuceno, Rachel Ashby and anyone else I missed out.
 <br><br>
 
 <img src="https://i.imgur.com/OZp159Xl.jpg">
