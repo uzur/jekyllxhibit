@@ -23,6 +23,8 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
 <br>
 PGP - 
+<br><br>
+XMPP - tom@freifunk.im 
 
 <iframe class="btn" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="20" width="65" src="https://platform.tumblr.com/v2/follow_button.html?type=follow&amp;tumblelog=tomhackshaw.tumblr.com&amp;color=white"></iframe>
 
