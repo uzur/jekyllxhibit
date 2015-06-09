@@ -28,64 +28,71 @@ category: exhibit
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/427/17698442944_73f3b80770_c.jpg">
+<img src="https://farm1.staticflickr.com/427/17698442944_73f3b80770_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/500/18133317870_1ef56450d3_c.jpg">
+<img src="https://farm1.staticflickr.com/500/18133317870_1ef56450d3_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm8.staticflickr.com/7789/18133319340_0581fbe8c6_c.jpg">
+<img src="https://farm8.staticflickr.com/7789/18133319340_0581fbe8c6_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/315/18134854309_b45fe8aa13_c.jpg">
+<img src="https://farm1.staticflickr.com/315/18134854309_b45fe8aa13_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm8.staticflickr.com/7751/18294643616_9ef24d08bc_c.jpg">
+<img src="https://farm8.staticflickr.com/7751/18294643616_9ef24d08bc_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm9.staticflickr.com/8873/18135015869_4069aa6d41_c.jpg">
+<img src="https://farm9.staticflickr.com/8873/18135015869_4069aa6d41_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/475/18321214265_e8f58ea854_c.jpg">
+<img src="https://farm1.staticflickr.com/475/18321214265_e8f58ea854_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/346/18294773346_8dc45afd7a_c.jpg">
+<img src="https://farm1.staticflickr.com/346/18294773346_8dc45afd7a_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/327/18133484410_cea2906f06_c.jpg">
+<img src="https://farm1.staticflickr.com/327/18133484410_cea2906f06_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/319/18294772916_3a60299bcb_c.jpg">
+<img src="https://farm1.staticflickr.com/319/18294772916_3a60299bcb_z.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm8.staticflickr.com/7734/17698609834_dd7b960804_c.jpg">
+<img src="https://farm8.staticflickr.com/7734/17698609834_dd7b960804_z.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://farm1.staticflickr.com/499/18444283708_b90990669c_z.jpg">
+
