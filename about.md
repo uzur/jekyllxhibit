@@ -23,7 +23,7 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
 <br>
 
-_Note: for people who use PGP ask me for my public key_
+_Note: for people who use PGP ask me for my public key_ 😶
 
 For those who don't know how to use PGP but wish to email me securely, email me at <a href="mailto:tomu@tuta.io">tomu@tuta.io</a>. Eventually I will merge both these accounts and get hosting in Germany.
 
@@ -36,7 +36,7 @@ Twitter - <a href="https://twitter.com/tomhackshaw>">@tomhackshaw</a>
 <br>
 
 
-Thanks. ☻
+Thanks. ツ 
 
 
 
