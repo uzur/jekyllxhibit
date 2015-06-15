@@ -36,7 +36,7 @@ Twitter - <a href="https://twitter.com/tomhackshaw>">@tomhackshaw</a>
 <br>
 
 
-Thanks. 🍎
+Thanks. ☻
 
 
 
