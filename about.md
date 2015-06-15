@@ -30,7 +30,7 @@ For those who don't know how to use PGP but wish to email me securely, email me 
 <br><br>
 XMPP - tom@freifunk.im 
 
-<a class="twitter-follow-button"
+Twitter - <a class="twitter-follow-button"
   href="https://twitter.com/tomhackshaw">
 Follow @tomhackshaw</a>
 
