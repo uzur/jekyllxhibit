@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: The Playground
+title: Shared Index
 section: Agency / Index / Collaboration
 category: exhibit
 ---
