@@ -7,7 +7,7 @@ section: Agency / Index / Collaboration
 category: exhibit
 ---
 
-<img src="https://farm1.staticflickr.com/260/18899532252_1af810cf8e_z_d.jpg">
+<img src="https://farm1.staticflickr.com/260/18899532252_1af810cf8e_c.jpg">
 <br><br>
 <img src="https://farm1.staticflickr.com/532/18282218604_e12b25561b_z_d.jpg">
 <br><br>
