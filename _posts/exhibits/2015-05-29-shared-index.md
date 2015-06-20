@@ -18,6 +18,8 @@ Over the course of the _Playground_ project I had been compiling a shared index,
 
 The file is 723 MiB in size, and can be downloaded [here.][here]
 
+Note: The download is delivered via Google Drive. I am currently migrating the file to an ownCloud instance so that people aren't tracked by Google cookies.
+
 
 
 
