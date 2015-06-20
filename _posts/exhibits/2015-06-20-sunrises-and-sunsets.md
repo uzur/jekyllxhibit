@@ -7,7 +7,7 @@ category: exhibit
 ---
 
 UTC time: <span id="UTC_za00"></span><br/>
-<a href="http://time.is/Auckland,_Auckland" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Auckland:</a>
+<a href="https://time.is/Auckland,_Auckland" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Auckland:</a>
 <span id="Auckland__Auckland_z901" style="font-size:36px"></span>
 <script src="https://widget.time.is/en_gb.js"></script>
 <script>
