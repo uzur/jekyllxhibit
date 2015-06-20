@@ -9,7 +9,7 @@ category: exhibit
 UTC time: <span id="UTC_za00"></span><br/>
 <a href="http://time.is/Auckland,_Auckland" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Auckland:</a>
 <span id="Auckland__Auckland_z901" style="font-size:36px"></span>
-<script src="http://widget.time.is/en_gb.js"></script>
+<script src="https://widget.time.is/en_gb.js"></script>
 <script>
 time_is_widget.init({Auckland__Auckland_z901:{template:"TIME<br/>SUN", sun_format:"Sunrise: srhour:srminute Sunset: sshour:ssminute", coords:"-36.8666700,174.7666700"}});
 </script>
