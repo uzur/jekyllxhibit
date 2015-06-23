@@ -31,7 +31,7 @@ category: exhibit
 <br><br>
 <br><br>
 <br><br>
-<img src="https://farm1.staticflickr.com/444/19070480025_bf4540ab7_c.jpg">
+<img src="https://farm1.staticflickr.com/444/19070480025_bf4540ab7c_c.jpg">
 <br><br>
 <br><br>
 <br><br>
