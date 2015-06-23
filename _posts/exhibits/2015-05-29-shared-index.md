@@ -16,9 +16,9 @@ category: exhibit
 
 Over the course of the _Playground_ project I had been compiling a shared index, ful of all the photographs that me and others in the group took, as well as a catalog of all the objects we gathered and used.
 
-The file is 723 MiB in size, and can be downloaded [here.][here]
+The file is 723 MiB in size, and can be downloaded [on my ownCloud][here]
 
-Note: The download is delivered via Google Drive. I am currently migrating the file to an ownCloud instance so that people aren't tracked by Google cookies.
+The file is generously hosted by the great people at [blaucloud][bc]
 
 
 
@@ -35,4 +35,5 @@ Tom Hackshaw
 
 
 
-[here]: https://drive.google.com/file/d/0Bydg1JXZmmwKSlpBUTJGdUY4TjQ/view?usp=sharing
+[here]: https://thac408.blaucloud.de/index.php/s/7BeiqOFuyAHlWMV/download
+[bc]: https://blauloud.de
