@@ -28,7 +28,9 @@ _Note: for people who use PGP ask me for my public key_ 😶
 For those who don't know how to use PGP but wish to email me securely, email me at <a href="mailto:tomu@tuta.io">tomu@tuta.io</a>. Eventually I will merge both these accounts and get hosting in Germany with them (_highly recommended_).
 
 <br><br>
-IM - tom@jabber.at - OTR: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
+IM - tom@jabber.at - 
+<br>
+OTR: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
 
 
 Twitter - <a class="twitter-follow-button"
