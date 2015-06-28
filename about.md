@@ -30,10 +30,13 @@ For those who don't know how to use PGP but wish to email me securely, email me 
 Eventually I will merge both these accounts and get hosting in Germany with them (hopefully soon).
 
 <br><br>
+-
+
 IM - tom@jabber.at  
 <br>
 OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
 
+IRC - [geino@rizon.net][geino]
 
 Twitter - <a class="twitter-follow-button"
   href="https://twitter.com/tomhackshaw">
@@ -49,6 +52,7 @@ Sincerely,
 Tom Hackshaw
 
 [src]: https://github.com/uzur/uzur.github.io
+[geino]: irc://irc.rizon.net/geino
 
 
 
