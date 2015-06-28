@@ -1,6 +1,6 @@
 ## Source code for tomhackshaw.com
 
-This site uses code from [Jekyllxhibit][jk], project licensed under the MIT license.
+This site uses code from [Jekyllxhibit][jk], a project licensed under the MIT license.
 
 All of the material, whether it be photos, videos, audio etc, are licensed under a Creative Commons Attribution license (CC BY 2.0) unless otherwise noted.
 
