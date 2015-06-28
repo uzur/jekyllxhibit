@@ -6,7 +6,7 @@ All of the material, whether it be photos, videos, audio etc, are licensed under
 
 Feel free to fork yourself a copy of the site and use it in any way you'd like.
 
-If you need any help with anything email me at _hi<at>tomhackshaw.com_
+If you need any help with anything email me at _hi at tomhackshaw.com_
 
 Sincerely,
 <br>
