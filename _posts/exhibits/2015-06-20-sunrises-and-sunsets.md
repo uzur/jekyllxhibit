@@ -2,7 +2,7 @@
 published: true
 layout: default
 title: Good morning, and good night (朝と夜)
-section: 2015
+section: The Twitter Bot series
 category: exhibit
 ---
 
