@@ -23,14 +23,14 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
 <br>
 
-_Note: for people who use PGP ask me for my public key_ ðŸ˜¶
+_Note: for people who use PGP ask me for my public key_ í ½
 
-For those who don't know how to use PGP but wish to email me securely, email me at <a href="mailto:tomu@tuta.io">tomu@tuta.io</a>. Eventually I will merge both these accounts and get hosting in Germany with them (_highly recommended_).
+For those who don't know how to use PGP but wish to email me securely, email me at <a href="mailto:tomu@tuta.io">tomu@tuta.io</a>. Eventually I will merge both these accounts and get hosting in Germany with them (hopefully soon).
 
 <br><br>
 IM - tom@jabber.at - 
 <br>
-OTR: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
+OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
 
 
 Twitter - <a class="twitter-follow-button"
@@ -39,8 +39,14 @@ Follow @tomhackshaw</a>
 
 <br>
 
+This site is free and open source ([source code][src]), with code released under the MIT license.
 
-Thanks. ãƒ„ 
+
+Sincerely,
+<br>
+Tom Hackshaw
+
+[src]: https://github.com/uzur/uzur.github.io
 
 
 
