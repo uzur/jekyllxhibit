@@ -7,7 +7,7 @@ section: I.O.W.A. Collective (2014 - present)
 category: exhibit
 ---
 
-The I.O.W.A. collective participated in the [Unreal City Estate project][un], created by Jun Kitazawa and collaborators, and curated by Sarah Black.
+The I.O.W.A. collective participated in the [Unreal City Estate project][uu], created by [Jun Kitazawa][jun] and collaborators, and curated by Sarah Black.
 
 From the project website -
 
@@ -100,4 +100,5 @@ _" 'Unreal City Estate' is a project where people get together and create 'an im
 To be continued
 
 
-[un]: http://www.junkitazawa.com/home.html
+[jun]: http://www.junkitazawa.com/home.html
+[uu]: http://unrealcityestate.com
