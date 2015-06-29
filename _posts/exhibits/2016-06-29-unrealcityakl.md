@@ -3,7 +3,7 @@ published: true
 layout: default
 
 title: Unreal City Estate project
-section: I.O.W.A. Collective (2014 - present)
+section: Current
 category: exhibit
 ---
 
