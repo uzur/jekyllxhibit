@@ -7,7 +7,7 @@ section: Current
 category: exhibit
 ---
 
-The I.O.W.A. collective participated in the [Unreal City Estate project][uu], created by [Jun Kitazawa][jun] and collaborators, and curated by Sarah Black.
+The [I.O.W.A. collective][io] participated in the [Unreal City Estate project][uu], created by [Jun Kitazawa][jun] and collaborators, and curated by Sarah Black.
 
 <br>
 
@@ -107,3 +107,4 @@ To be continued
 
 [jun]: http://www.junkitazawa.com/home.html
 [uu]: http://unrealcityestate.com
+[io]: http://io-wa.me
