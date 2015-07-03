@@ -32,6 +32,7 @@ Eventually I will merge both these accounts and get hosting in Germany with them
 <br><br>
 -
 
+Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
 IM - [tom@jabber.at][im]  
 <br>
 OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
@@ -53,7 +54,8 @@ Tom Hackshaw
 
 [src]: https://github.com/uzur/uzur.github.io
 [geino]: irc://irc.rizon.net/geino
-[im]: xmpp:tom@jabber.at
+[im]: xmpp://tom@jabber.at
+[tum]: http://tumblr.tomhackshaw.com
 
 
 
