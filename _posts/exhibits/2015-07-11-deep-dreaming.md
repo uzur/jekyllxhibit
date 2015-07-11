@@ -21,12 +21,13 @@ In an nutshell, it attempts to reinterpret the image and read what is happening 
 
 Examples of other deep dream images created using this technique can be found [here][here], and on Twitter under [#deepdream][dd].
 
-<img src="">
+<img src="https://farm8.staticflickr.com/7500/16158906498_f90683ab71_z_d.jpg"> <img src="https://farm1.staticflickr.com/393/19599734061_d4e05fcc17_z_d.jpg">
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
+<img src=""> <img src="">
 
 [source]: https://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 [ann]: https://en.wikipedia.org/wiki/Artificial_neural_network
