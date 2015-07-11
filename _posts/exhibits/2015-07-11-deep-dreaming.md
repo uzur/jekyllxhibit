@@ -7,7 +7,9 @@ section: Current
 category: exhibit
 ---
 
-Utilising [Google's Neural Network algorithm][source], which was recently open sourced to allow researchers and artists alike to study, I used photographs that I had previously taken and put it through this algorithm. (More information regarding [Artificial Neural Networks][ann]. This ia a relatively new field in Machine Learning.
+By utilising [Google's Neural Network algorithm][source], which was recently open sourced to allow researchers and artists alike to study, I used photographs that I had taken in Wellington last year and put it through this algorithm (More information regarding [Artificial Neural Networks][ann]) 
+
+This ia a relatively new field in Machine Learning.
 
 From the original source by Alexander Mordvintsev, Christopher Olah and Mike Tyka:
 
