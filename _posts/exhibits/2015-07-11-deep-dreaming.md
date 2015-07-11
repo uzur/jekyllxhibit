@@ -7,15 +7,26 @@ section: Current
 category: exhibit
 ---
 
-Utilising [Google's Neural Network algorithm][source], which was recently open sourced to allow researchers and artists alike to study, I used photographs that I had previously taken and put it through this algorithm. (More information regarding [Artificial Neural Networks][ann].
+Utilising [Google's Neural Network algorithm][source], which was recently open sourced to allow researchers and artists alike to study, I used photographs that I had previously taken and put it through this algorithm. (More information regarding [Artificial Neural Networks][ann]. This ia a relatively new field in Machine Learning.
 
 From the original source by Alexander Mordvintsev, Christopher Olah and Mike Tyka:
 
 _"One of the challenges of neural networks is understanding what exactly goes on at each layer. We know that after training, each layer progressively extracts higher and higher-level features of the image, until the final layer essentially makes a decision on what the image shows. For example, the first layer maybe looks for edges or corners. Intermediate layers interpret the basic features Alexander Mordvintsev, Software Engineer, Christopher Olah, Software Engineering Intern and Mike Tyka, Software Engineerto look for overall shapes or components, like a door or a leaf. The final few layers assemble those into complete interpretations—these neurons activate in response to very complex things such as entire buildings or trees."_ 
 
+And from /r/deepdream:
+
+_"Deep Learning algorithms are trained by giving them a huge number of images, and telling them what object is in each image. Once it has seen (e.g.) a hundred types of dog heads 1000 times from a hundred angles, it has been 'trained'. Now you can give it new images and it will spot dog heads within the images, or tell you that there are none at all. It also can say how unsure it is."_
+
 In an nutshell, it attempts to reinterpret the image and read what is happening through Google's image recognition algorithm. That result is then outputted to create these dream-like images.
 
 Examples of other deep dream images created using this technique can be found [here][here], and on Twitter under [#deepdream][dd].
+
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 [source]: https://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 [ann]: https://en.wikipedia.org/wiki/Artificial_neural_network
