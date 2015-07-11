@@ -17,7 +17,7 @@ And from /r/deepdream:
 
 _"Deep Learning algorithms are trained by giving them a huge number of images, and telling them what object is in each image. Once it has seen (e.g.) a hundred types of dog heads 1000 times from a hundred angles, it has been 'trained'. Now you can give it new images and it will spot dog heads within the images, or tell you that there are none at all. It also can say how unsure it is."_
 
-In an nutshell, it attempts to reinterpret the image and read what is happening through Google's image recognition algorithm. That result is then outputted to create these dream-like images.
+In an nutshell, it attempts to reinterpret the image and read what is happening through Google's image recognition algorithm. That result is then outputted to create these dream-like images, some of which look almost painterly.
 
 Examples of other deep dream images created using this technique can be found [here][here], and on Twitter under [#deepdream][dd].
 
@@ -27,7 +27,19 @@ Examples of other deep dream images created using this technique can be found [h
 <br><br>
 <br><br>
 <br><br>
-<img src=""> <img src="">
+<img src="https://farm4.staticflickr.com/3702/18972892434_49ed456dae_z_d.jpg"> <img src="https://farm1.staticflickr.com/526/18974482143_260cca9ebb_z_d.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://farm1.staticflickr.com/416/19569355466_ab44a9d142_z_d.jpg"> <img src="https://farm1.staticflickr.com/558/19595404215_bc29dfb1a0_z_d.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://farm4.staticflickr.com/3779/19588623892_f1b2e83356_z_d.jpg"> <img src="https://farm1.staticflickr.com/450/18973024584_ba983572de_z_d.jpg">
 
 [source]: https://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 [ann]: https://en.wikipedia.org/wiki/Artificial_neural_network
