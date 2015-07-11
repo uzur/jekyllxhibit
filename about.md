@@ -4,7 +4,7 @@ layout: default
 ---
 
 <br><br>
-Tom Hackshaw is a Japanese - New Zealand interdisciplinary artist currently living in Auckland, New Zealand, and is a student at the Elam School of Fine Arts. He is one of the founding members of the <a href="http://io-wa.me">I.O.W.A. Collective</a> (It's Okay We're Artists!), and also is a part of the <a href="http://autistici.org">Autistici/Inventati Collective.</a>
+Tom Hackshaw is a Japanese - New Zealand interdisciplinary artist currently living in Auckland, New Zealand, and is a student at the Elam School of Fine Arts. He is one of the founding members of the [IOWA Collective][iowa] (It's Okay We're Artists!), and also is a part of the [Autistici/Inventati Collective.][au]
 <br>
 Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 <br><br>
@@ -25,7 +25,7 @@ Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
 
 _Note: for people who use PGP ask me for my public key_
 
-For those who don't know how to use PGP but wish to email me securely, email me at <a href="mailto:tomhackshaw@protonmail.ch">tomhackshaw@protonmail.ch</a>. 
+For those who don't know how to use PGP but wish to email me securely, email me at <a href="mailto:tomhackshaw@protonmail.ch">tomhackshaw@protonmail.ch</a>
 <br>
 Eventually I will merge both these accounts and get hosting in Switzerland with them (hopefully soon).
 
@@ -56,6 +56,8 @@ Tom Hackshaw
 [geino]: irc://irc.rizon.net/geino
 [im]: xmpp://tom@jabber.at
 [tum]: http://tumblr.tomhackshaw.com
+[iowa]: https://iowa.nz
+[au]: http://inventati.org
 
 
 
