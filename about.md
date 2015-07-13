@@ -20,22 +20,20 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 ご注意下さい。
 <br><br>
 <br><br>
-Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
-<br>
-[PGP][pgp]
+Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a> [(PGP)][pgp]
 <br>
 Fingerprint: CB66 113E 2957 2CED 5FCD 85E8 09AA 419C 8913 6DFD
 <br><br>
 -
 
 Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
-<br>
+<br><br>
 IM - [tom@jabber.at][im]  
 <br>
 OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
-
+<br><br>
 IRC - [geino@rizon.net][geino]
-
+<br><br>
 Twitter - <a class="twitter-follow-button"
   href="https://twitter.com/tomhackshaw">
 Follow @tomhackshaw</a>
