@@ -22,17 +22,14 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 <br><br>
 Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
 <br>
-
-_Note: for people who use PGP ask me for my public key_
-
-For those who don't know how to use PGP but wish to email me securely, email me at <a href="mailto:tomhackshaw@protonmail.ch">tomhackshaw@protonmail.ch</a>
+[PGP][pgp]
 <br>
-Eventually I will merge both these accounts and get hosting in Switzerland with them (hopefully soon).
-
+Fingerprint: CB66 113E 2957 2CED 5FCD 85E8 09AA 419C 8913 6DFD
 <br><br>
 -
 
 Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
+<br>
 IM - [tom@jabber.at][im]  
 <br>
 OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
@@ -58,6 +55,7 @@ Tom Hackshaw
 [tum]: http://tumblr.tomhackshaw.com
 [iowa]: https://iowa.nz
 [au]: http://inventati.org
+[pgp]: https://tomhackshaw.com/key.asc
 
 
 
