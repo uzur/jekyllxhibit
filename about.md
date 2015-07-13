@@ -31,8 +31,7 @@ Email - <a href="mailto:tomhackshaw@inventati.org">tomhackshaw@inventati.org</a>
 Fingerprint: CB66 113E 2957 2CED 5FCD 85E8 09AA 419C 8913 6DFD
 <br><br>
 IM - [tom@jabber.at][im]  
-
-OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
+<br> OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
 
 -
 
@@ -42,9 +41,7 @@ IRC - [geino@rizon.net][geino]
 <br><br>
 Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
 <br><br>
-Twitter - <a class="twitter-follow-button"
-  href="https://twitter.com/tomhackshaw">
-Follow @tomhackshaw</a>
+Twitter - [@tomhackshaw][twitter]
 
 <br>
 
@@ -62,6 +59,7 @@ Tom Hackshaw
 [iowa]: https://iowa.nz
 [au]: http://inventati.org
 [pgp]: https://tomhackshaw.com/key.asc
+[twitter]: https://twitter.com/tomhackshaw
 
 
 
