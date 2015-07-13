@@ -42,6 +42,17 @@ Examples of other deep dream images created using this technique can be found [h
 <br><br>
 <br><br>
 <img src="https://farm4.staticflickr.com/3779/19588623892_f1b2e83356_z_d.jpg"> <img src="https://farm1.staticflickr.com/450/18973024584_ba983572de_z_d.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://farm9.staticflickr.com/8680/16229675744_eaff61cbd2_z_d.jpg"> <img src="https://farm1.staticflickr.com/508/19645726416_0e841161fb_z_d.jpg"> 
+<br>
+<img src="https://farm4.staticflickr.com/3712/19664836182_cca67b90ab_z_d.jpg"> <img src="https://farm1.staticflickr.com/396/19049351644_c65c8ac72c_z_d.jpg">
+<br><br>
+<br><br>
+Thank you to the various HN and Reddit users and others who generously let me use their computational power to generate these images.
 
 [source]: https://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 [ann]: https://en.wikipedia.org/wiki/Artificial_neural_network
