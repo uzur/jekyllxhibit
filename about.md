@@ -31,7 +31,7 @@ Email - <a href="mailto:tomhackshaw@inventati.org">tomhackshaw@inventati.org</a>
 Fingerprint: CB66 113E 2957 2CED 5FCD 85E8 09AA 419C 8913 6DFD
 <br><br>
 IM - [tom@jabber.at][im]  
-<br>
+
 OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
 
 -
