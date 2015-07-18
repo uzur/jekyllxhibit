@@ -36,6 +36,8 @@ IM - [tom@jabber.at][im]
 
 _Social_
 <br>
+[blog.tomhackshaw.com][blog]
+<br><br>
 IRC - [geino@rizon.net][geino]
 <br><br>
 Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
@@ -59,6 +61,7 @@ Tom Hackshaw
 [au]: http://inventati.org
 [pgp]: https://tomhackshaw.com/key.asc
 [twitter]: https://twitter.com/tomhackshaw
+[blog]: https://blog.tomhackshaw.com
 
 
 
