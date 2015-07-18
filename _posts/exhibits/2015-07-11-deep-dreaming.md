@@ -3,7 +3,7 @@ published: true
 layout: default
 
 title: Deep Dreaming
-section: Current
+section: 2015
 category: exhibit
 ---
 
