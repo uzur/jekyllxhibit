@@ -25,7 +25,7 @@ _Security conscious_
 <br>
 For people who wish to use contact me securely:
 
-Email - <a href="mailto:tomhackshaw@inventati.org">tomhackshaw@inventati.org</a> [(PGP)][pgp]. Please use PGP otherwise to ensure security.
+Email - <a href="mailto:tomhackshaw@inventati.org">tomhackshaw@inventati.org</a> [(PGP)][pgp]. Please use PGP to ensure security.
 <br>
 Fingerprint: CB66 113E 2957 2CED 5FCD 85E8 09AA 419C 8913 6DFD
 <br><br>
