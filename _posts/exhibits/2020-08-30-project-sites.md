@@ -13,15 +13,12 @@ Project sites made for each respective project, organised by week number (six in
 
 <br><br>
 
-[p2][p2] - Agency / Index / Collaboration
+<a href="http://p2.tomhackshaw.com">p2</a> - Agency / Index / Collaboration
 
 <br><br>
 
-[p3][p3] - Sense of Place: Sequence and Series
+<a href="http://p3.tomhackshaw.com">p3</a> - Sense of Place: Sequence and Series
 
 </center>
 
 
-
-[p2]: http://p2.tomhackshaw.com
-[p3]: http://p3.tomhackshaw.com
