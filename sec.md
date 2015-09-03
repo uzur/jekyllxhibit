@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I prefer using encryption for all of my communications.
+I prefer to use encryption for all of my communications.
 
 **OTR (Jabber)** (**tom** at **jabber** dot **at**) 
 
