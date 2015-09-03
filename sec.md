@@ -4,11 +4,11 @@ layout: default
 
 I prefer using encryption for all of my communications.
 
-**OTR** (tom at jabber dot at) fingerprint - AD7896E6 350DA32D 23D403F9 08837F4D C9E7CE46
+**OTR** (**tom** at **jabber** dot **at**) fingerprint - AD7896E6 350DA32D 23D403F9 08837F4D C9E7CE46
 
-For email, please send anything to my Inventati account (**tomhackshaw at inventati dot org**), which has servers in Norway, Netherland and Iceland (all with relatively strong privacy laws).
+For email, please send anything to my Inventati account (**tomhackshaw** at **inventati** dot **org**), which has servers in Norway, Netherland and Iceland (all with relatively strong privacy laws). If you are going to email this account please always use PGP otherwise I ***will not*** respond. Please keep in mind that metadata in the email (the subject line as well as the email headers) are **not** encrypted, although I strip all of my IP logs in all of my emails from this account.
 
-PGP fingerprint - 740C B68A 355E 0269 BE71 71CD C518 FDFF AFA2 73CE
+**PGP fingerprint** - 740C B68A 355E 0269 BE71 71CD C518 FDFF AFA2 73CE
 
 Key set to expire 1/9/2016
 <pre>
