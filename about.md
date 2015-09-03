@@ -3,7 +3,7 @@ title: About + Contact
 layout: default
 ---
 
-Tom Hackshaw is a Japanese - New Zealand interdisciplinary artist and researcher currently living in Auckland, New Zealand, and is a student at the Elam School of Fine Arts. He is one of the founding members of the [IOWA Collective][iowa] (It's Okay We're Artists!), and also is a part of the [Autistici/Inventati Collective.][au]
+Tom Hackshaw is a Japanese - New Zealand interdisciplinary artist and researcher currently living in Auckland, New Zealand, and is a student at the Elam School of Fine Arts. He is one of the founding members of the [IOWA Collective][iowa] (It's Okay We're Artists!, now the Copyleft Collective), and also is a part of the [Autistici/Inventati Collective.][au]
 <br>
 Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 <br><br>
@@ -23,14 +23,8 @@ Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
 
 _Security conscious_
 <br>
-For people who wish to use contact me securely:
 
-Email - <a href="mailto:tomhackshaw@inventati.org">tomhackshaw@inventati.org</a> [(PGP)][pgp]. Please use PGP to ensure security.
-<br>
-Fingerprint: CB66 113E 2957 2CED 5FCD 85E8 09AA 419C 8913 6DFD
-<br><br>
-IM - [tom@jabber.at][im]  
-<br> OTR fingerprint: 46EEBF64 CCA1CABA 31618092 11ABA188 35AB929D
+I would strongly prefer if people used encryption methods to contact me. Details [here][here]
 
 -
 
@@ -46,8 +40,7 @@ Twitter - [@tomhackshaw][twitter]
 
 <br>
 
-This site is free and open source ([source code][src]), with code released under the MIT license.
-
+This site is hosted using Github Pages ([source code][src]), with code released under the MIT license.
 
 Sincerely,
 <br>
@@ -55,13 +48,12 @@ Tom Hackshaw
 
 [src]: https://github.com/uzur/uzur.github.io
 [geino]: irc://irc.rizon.net/geino
-[im]: xmpp://tom@jabber.at
 [tum]: http://tumblr.tomhackshaw.com
 [iowa]: https://iowa.nz
 [au]: http://inventati.org
-[pgp]: https://tomhackshaw.com/key.asc
 [twitter]: https://twitter.com/tomhackshaw
 [blog]: https://blog.tomhackshaw.com
+[here]: https://tomhackshaw.com/sec
 
 
 
