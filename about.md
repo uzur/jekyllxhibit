@@ -19,7 +19,7 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 ご注意下さい。
 <br><br>
 <br><br>
-Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>  
+**Email** - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>  
 
 ***For secure communication***
 <br>
