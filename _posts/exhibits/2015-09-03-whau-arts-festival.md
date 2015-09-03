@@ -9,7 +9,7 @@ category: exhibit
 
 For the next few weeks the [Copyleft Collective][iowa] and the [Whau The People Collective][whau] will be participating in the Whau Arts Festival 2015.
 
-Things are still in an early organisational phase, but more info can be found [here][here]
+Things are still in a early preliminary phase, but more info can be found [here][here]
 
 
 [iowa]: https://iowa.nz
