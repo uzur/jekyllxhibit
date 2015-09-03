@@ -21,18 +21,18 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years.
 <br><br>
 Email - <a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>  
 
-_Security conscious_
+***For secure communication***
 <br>
 
 I would strongly prefer if people used encryption methods to contact me. Details [here][here]
 
 -
 
-_Social_
+***Social***
 <br>
-[blog.tomhackshaw.com][blog]
+[Blog][blog] (Kindly hosted by the A/I Collective).
 <br><br>
-IRC - [geino@rizon.net][geino]
+[IRC][geino]
 <br><br>
 Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
 <br><br>
@@ -52,7 +52,7 @@ Tom Hackshaw
 [iowa]: https://iowa.nz
 [au]: http://inventati.org
 [twitter]: https://twitter.com/tomhackshaw
-[blog]: https://blog.tomhackshaw.com
+[blog]: http://tmhw.noblogs.org
 [here]: https://tomhackshaw.com/sec
 
 
