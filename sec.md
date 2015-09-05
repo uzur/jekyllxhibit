@@ -4,7 +4,7 @@ layout: default
 
 I prefer to use encryption for all of my communications.
 
-**OTR (Jabber)** (**mono** at **jabber** dot **ccc** dot **de**). The provider of my previous account unfortunately went under. Please use OTR for all conversations.
+**OTR (Jabber)** (**mono** at **jabber** dot **ccc** dot **de**). The provider of my previous account unfortunately went under. Please use OTR for all conversations (I do not log conversations out of privacy).
 
 For email, please send anything to my Inventati account (**tomhackshaw** at **inventati** dot **org**), which has servers in Norway, Netherland and Iceland (all with relatively strong privacy laws). If you are going to email this account please always use PGP otherwise I ***will not*** respond. Please keep in mind that metadata in the email (the subject line as well as the email headers) are **not** encrypted, although I strip all of my IP logs in all of my emails from this account.
 
