@@ -4,9 +4,7 @@ layout: default
 
 I prefer to use encryption for all of my communications.
 
-**OTR (Jabber)** (**tom** at **jabber** dot **at**) 
-
-OTR fingerprint - AD7896E6 350DA32D 23D403F9 08837F4D C9E7CE46
+**OTR (Jabber)** (**mono** at **jabber** dot **ccc** dot **de**). The provider of my previous account unfortunately went under. Please use OTR for all conversations.
 
 For email, please send anything to my Inventati account (**tomhackshaw** at **inventati** dot **org**), which has servers in Norway, Netherland and Iceland (all with relatively strong privacy laws). If you are going to email this account please always use PGP otherwise I ***will not*** respond. Please keep in mind that metadata in the email (the subject line as well as the email headers) are **not** encrypted, although I strip all of my IP logs in all of my emails from this account.
 
@@ -15,7 +13,6 @@ PGP fingerprint - F836 ADFC 620A 3EFA 8CF2 0809 C756 4550 866D 69DD
 Key set to expire 1/9/2016
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG v1
 
 mQINBFXn3gIBEADQV9lmJ4z15oqv12SH2r90krRVnkdOzYFlJ48LGDmrR9RzOdYQ
 /cT2WgChpocAQud8mPRj5dULOdobWY2X2PSlP6PPfeGG5OgrvLNFF1bSJQTvtzT+
