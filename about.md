@@ -47,7 +47,7 @@ Sincerely,
 Tom Hackshaw
 
 [src]: https://github.com/uzur/uzur.github.io
-[geino]: irc://irc.rizon.net/usuri
+[usuri]: irc://irc.rizon.net/usuri
 [tum]: http://tumblr.tomhackshaw.com
 [iowa]: https://iowa.nz
 [au]: http://inventati.org
