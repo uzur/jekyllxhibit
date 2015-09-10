@@ -32,7 +32,7 @@ I would strongly prefer if people used encryption methods to contact me. Details
 <br>
 [Blog][blog] (Kindly hosted by the A/I Collective).
 <br><br>
-[IRC][geino]
+[IRC][usuri] - usuri (better.stay.noided) @ Rizon
 <br><br>
 Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
 <br><br>
@@ -47,7 +47,7 @@ Sincerely,
 Tom Hackshaw
 
 [src]: https://github.com/uzur/uzur.github.io
-[geino]: irc://irc.rizon.net/geino
+[geino]: irc://irc.rizon.net/usuri
 [tum]: http://tumblr.tomhackshaw.com
 [iowa]: https://iowa.nz
 [au]: http://inventati.org
