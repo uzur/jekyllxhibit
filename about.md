@@ -30,6 +30,8 @@ I would strongly prefer if people used encryption methods to contact me. Details
 
 ***Social***
 <br>
+[Diaspora*][diasp] 
+<br><br>
 [Blog][blog] (Kindly hosted by the A/I Collective).
 <br><br>
 Tumblr - [tumblr.tomhackshaw.com][tum], where I will post small notes and any photographs I might take etc.
@@ -51,6 +53,7 @@ Tom Hackshaw
 [twitter]: https://twitter.com/tomhackshaw
 [blog]: http://tmhw.noblogs.org
 [here]: https://tomhackshaw.com/sec
+[diasp]: https://diasp.grin.hu/people/1b5df53044010133bc38131350d98646
 
 
 
